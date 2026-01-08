@@ -3,4 +3,17 @@
 *
 !/**/
 !*.*
+
+# Hide learn_golang_from_7gpt folder
 learn_golang_from_7gpt/
+
+# Ignore files with extension `.class`
+*.class
+
+# Ignore `bin` dir
+bin/
+# or
+*/bin/*
+
+# Unignore all `.exe` in `bin` dir
+!*/bin/*.exe
