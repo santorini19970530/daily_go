@@ -1,10 +1,11 @@
 **/*.exe
-.DS_Store
 *
 !/**/
 !*.*
+# Ignore .DS_Store files everywhere
+.DS_Store
+**/.DS_Store
 
-# Hide learn_golang_from_7gpt folder
 learn_golang_from_7gpt/
 
 # Ignore files with extension `.class`
