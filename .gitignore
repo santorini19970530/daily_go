@@ -1,0 +1,6 @@
+**/*.exe
+.DS_Store
+*
+!/**/
+!*.*
+learn_golang_from_7gpt/
