@@ -22,6 +22,18 @@ Type Conversions
 
 ### Primitives
 
+Boolean Type
+
+Numeric Types
+
+- Integers
+
+- Floating Point
+
+- Complex Numbers
+
+Text Types
+
 ### Constants
 
 ### Arrays and Slices
@@ -45,3 +57,7 @@ Type Conversions
 ### Channels
 
 ## Data Structures and Algorithms using Go
+
+# Resources of Learning Go
+
+[Public Sources of Learning Go](./public_sources_for_go.md)
