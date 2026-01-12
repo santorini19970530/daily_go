@@ -22,13 +22,15 @@ Type Conversions
 
 ### Primitives
 
-Boolean Type
+[#3 Primitives](./003_primitives/primitive.go)
+
+[Boolean Type](./003_primitives/boolean.go)
 
 Numeric Types
 
-- Integers
+- [Integers](./003_primitives/numerical_ingeter.go)
 
-- Floating Point
+- [Floating Point](./003_primitives/numerical_floating.go)
 
 - Complex Numbers
 

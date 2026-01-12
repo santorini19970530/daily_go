@@ -4,7 +4,7 @@ package main
 
 import "fmt"
 
-// RunIntegerDemo contains all the integers
+// contains all the integers
 func RunIntegerDemo() {
 	fmt.Println("Numerical primitive demo - Integer\n")	
 

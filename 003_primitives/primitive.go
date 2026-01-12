@@ -14,10 +14,10 @@ func main() {
 	// floating point numbers demo from numerical_floating.go
 	fmt.Println("")
 	RunFloatingDemo()
+	// complex numbers demo from numerical_complex_number.go
+	fmt.Println("")
+	RunComplexDemo()
 
 	// text primitives demo from text.go
 	//RunTextDemo()
-
-	// complex primitives demo from complex.go
-	//RunComplexDemo()
 }
