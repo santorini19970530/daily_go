@@ -19,5 +19,6 @@ func main() {
 	RunComplexDemo()
 
 	// text primitives demo from text.go
-	//RunTextDemo()
+	fmt.Println("")
+	RunTextDemo()
 }
