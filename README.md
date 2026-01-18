@@ -32,11 +32,17 @@ Numeric Types
 
 - [Floating Point](./003_primitives/numerical_floating.go)
 
-- Complex Numbers
+- [Complex Numbers](./003_primitives/numerical_complex_nunber.go)
 
-Text Types
+[Text Types](./003_primitives/text.go)
+
+- String
+
+- Rune
 
 ### Constants
+
+[#4 Constants](./004_constants/constants.go)
 
 ### Arrays and Slices
 
