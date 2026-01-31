@@ -14,4 +14,9 @@ func main(){
 
 	fmt.Println("Looping Example")
 	RunLoopingExample()
+
+	fmt.Println()
+
+	fmt.Println("Defer, Panic and Recover Example")
+	RunDeferPanicRecoverExample()
 }
