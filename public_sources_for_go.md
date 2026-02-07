@@ -18,6 +18,8 @@
 
 7. [Go vs Python: What Every Developer Should Know](https://www.youtube.com/watch?v=bhIrmT4uf1M)
 
+8. [The Untold Story of Golang](https://www.youtube.com/watch?v=_nuUtmhaUEc)
+
 ### Level 2: Basics & Fundamentals
 
 8. [The LAST Go basics video you will ever watch](https://www.youtube.com/watch?v=tgGNwG_UxFo)

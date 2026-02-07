@@ -46,9 +46,23 @@ Numeric Types
 
 ### Arrays and Slices
 
+- [Arrays](./005_array_and_slices/array.go)
+
+- [Slices](./005_array_and_slices/slices.go)
+
 ### Maps and Structs
 
+- [Maps](./006_maps_and_structs/maps.go)
+
+- [Structs](./006_maps_and_structs/structs.go)
+
 ### If and switch statements
+
+- [Conditional](./007_control_flow/conditional.go)
+
+- [Loop](./007_control_flow/loop.go)
+
+- [Defer, Panic and Recover](./007_control_flow/defer_panic_recover.go)
 
 ### Looping
 
