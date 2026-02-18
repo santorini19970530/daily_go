@@ -64,11 +64,9 @@ Numeric Types
 
 - [Defer, Panic and Recover](./007_control_flow/defer_panic_recover.go)
 
-### Looping
-
-### Defer, Panic and Recover
-
 ### Pointers
+
+[$8 Pointers](./008_pointers/pointers.go)
 
 ### Functions
 
