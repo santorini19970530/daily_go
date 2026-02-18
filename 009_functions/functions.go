@@ -73,11 +73,15 @@ func main(){
 	d, err = divide(5.0, 0.0)
 	if err != nil {
 		fmt.Println(err)
-		return
+		// the whole program should have been terminated
+		// just to go on the other examples, return has been hide
+		// return
 	}
 	fmt.Println("The result is", d)
 
 	RunAnonymousFunctions()
+
+	RunMethods()
 }
 
 func sayMessage(msg string){
